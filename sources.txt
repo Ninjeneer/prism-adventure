@@ -1,0 +1,12 @@
+MUSIQUES :
+	- Menu principal :
+		https://www.youtube.com/watch?v=6tgaRJIvqEM -- Dragon Quest 9 Actual Music- Observatory Theme
+	- Jeu :
+		https://www.youtube.com/watch?v=DYW-kEiCnJI -- Bit Rush: Arcade Ahri | Login Screen - League of Legends
+		https://www.youtube.com/watch?v=76qRF5-qvZM -- Ori and the Blind Forest – Main Theme [Menu Music]
+		https://www.youtube.com/watch?v=BO3XLE_eRPk&t=17s -- Bit Rush | Login Screen - League of Legends
+
+IMAGES :
+	http://www.gdunlimited.net/forums/gallery/category/14-game-development-resources/
+	http://creppinatmydoor.deviantart.com/art/Zelda-Items-507960233
+	http://fr-minecraft.net/texture-minecraft-1273-persistence.html
