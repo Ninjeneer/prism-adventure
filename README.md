@@ -1,4 +1,5 @@
 # Prism Adventure
+![](https://raw.githubusercontent.com/Ninjeneer/prism-adventure/master/data/images/titre.png)
 
 2D game created as part of a high school project.
 
